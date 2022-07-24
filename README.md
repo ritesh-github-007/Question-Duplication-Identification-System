@@ -1,0 +1,2 @@
+# Question-Duplication-Identification-System
+Created a question duplication identification system using Streamlit web API and Quora questions dataset from  Kaggle, which detects whether the given questions are duplicated or not using Random Forest Classifier with 80% accuracy and low false positives, deployed and running live on Heroku. Live project link: https://duplicatequestionidentifier-rp.herokuapp.com
